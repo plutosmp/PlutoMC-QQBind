@@ -1,0 +1,5 @@
+main: top.plutomc.qqbind.QQBindPlugin
+name: PlutoMC-QQBind
+api-version: 1.13
+author: GerryYuu
+version: 1.0.0
